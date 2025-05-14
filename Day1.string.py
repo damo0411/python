@@ -39,7 +39,7 @@ text = "Monkey D Luffy                "
 strip_text = text.strip()
 print("String after stripping whitespace:", strip_text)
 
-#substring
+#substring of text
 #substring
 text = "Monkey D Luffy"
 substring ="D"
